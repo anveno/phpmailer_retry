@@ -7,7 +7,6 @@
 
 ## Todos/Bugs:
 
-- [ ] Feature: Cronjob automatisch anlegen
 - [ ] Feature: Einstellbare Anzahl an Versuchen
 - [ ] Feature: Einstellbare Wartezeit zwischen Versuchen
 
